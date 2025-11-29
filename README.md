@@ -1,6 +1,6 @@
 # Anime List
 
-This app represents my resume. Feel free to clone it or visit Demo page.
+This app represents my resume. Feel free to clone it or visit [Demo](https://milorad-resume.vercel.app/) page.
 
 ### Technologies Used
 
